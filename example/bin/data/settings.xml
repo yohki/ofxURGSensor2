@@ -1,0 +1,10 @@
+<settings>
+  <ip>10.0.0.110</ip>
+  <port>10940</port>
+  <region>
+    <x>-1800</x>
+    <y>100</y>
+    <width>3600</width>
+    <height>2100</height>
+  </region>
+</settings>

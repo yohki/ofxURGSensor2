@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxURGSensor2\src\ofxURGSensor2.cpp">
+			<Filter>addons\ofxURGSensor2\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.cpp">
+			<Filter>addons\ofxXmlSettings\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.cpp">
+			<Filter>addons\ofxXmlSettings\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlerror.cpp">
+			<Filter>addons\ofxXmlSettings\libs</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlparser.cpp">
+			<Filter>addons\ofxXmlSettings\libs</Filter>
+		</ClCompile>
+	</ItemGroup>
+	<ItemGroup>
+		<Filter Include="src">
+			<UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons">
+			<UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxURGSensor2">
+			<UniqueIdentifier>{35345E42-01A2-22A7-F82C-8878}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxURGSensor2\src">
+			<UniqueIdentifier>{81310B6E-0940-83DC-68A3-BB41}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxURGSensor2\libs">
+			<UniqueIdentifier>{DB4BBE66-EC28-7F72-C2BB-7249}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxURGSensor2\libs\include">
+			<UniqueIdentifier>{E8959E3D-DC65-7EE4-F799-E545}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxXmlSettings">
+			<UniqueIdentifier>{877F005D-13E6-0592-1D97-F2E3}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxXmlSettings\src">
+			<UniqueIdentifier>{CCB2AC63-49D2-977C-CFE8-AEAD}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxXmlSettings\libs">
+			<UniqueIdentifier>{687714A8-1662-FA1C-261F-50F0}</UniqueIdentifier>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxURGSensor2\src\ofxURGSensor2.h">
+			<Filter>addons\ofxURGSensor2\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxURGSensor2\libs\include\detect_os.h">
+			<Filter>addons\ofxURGSensor2\libs\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxURGSensor2\libs\include\Lidar.h">
+			<Filter>addons\ofxURGSensor2\libs\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxURGSensor2\libs\include\math_utilities.h">
+			<Filter>addons\ofxURGSensor2\libs\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxURGSensor2\libs\include\ticks.h">
+			<Filter>addons\ofxURGSensor2\libs\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxURGSensor2\libs\include\Urg_driver.h">
+			<Filter>addons\ofxURGSensor2\libs\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.h">
+			<Filter>addons\ofxXmlSettings\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.h">
+			<Filter>addons\ofxXmlSettings\libs</Filter>
+		</ClInclude>
+	</ItemGroup>
+	<ItemGroup>
+		<ResourceCompile Include="icon.rc" />
+	</ItemGroup>
+</Project>
